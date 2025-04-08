@@ -1,0 +1,7 @@
+# pipecat-ai[daily,elevenlabs,openai,silero,simli]
+
+pipecat-ai[elevenlabs,openai,silero,deepgram]
+fastapi
+uvicorn
+python-dotenv
+loguru
