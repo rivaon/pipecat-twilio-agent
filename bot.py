@@ -39,7 +39,7 @@ logger.remove(0)
 logger.add(sys.stderr, level="DEBUG")
 
 
-AGENT_NAME = 'Sarah'
+AGENT_NAME = 'Sarah Fernando'
 INSURANCE  = 'Final Expense Insurance'
 CALLING_FROM = 'US Saving Centre'
 LOCATION = 'California'
